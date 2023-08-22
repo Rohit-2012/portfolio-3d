@@ -24,7 +24,7 @@ import threejs from "./tech/threejs.svg";
 import functionUp from "./company/functionUp.png";
 
 import gym from "./gymWebsite.png";
-import kanban from "./kanban.png";
+import kanban from "./kanbanBoard.png";
 import chatApp from "./chatApp.png";
 
 export {
